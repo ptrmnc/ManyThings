@@ -1,2 +1,2 @@
 # ManyThings
-This repo contains many things
+This repo contains many things.
